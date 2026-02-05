@@ -6,7 +6,7 @@
 </h3>
 
 
-## Work
+## 💫 Work
 
 - 🔭 I’m currently working on **Full-Stack Project**
 - 🌱 I’m currently learning **Java and React.js**
