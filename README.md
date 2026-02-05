@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sokchea Boy</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=A+passionate+full-stack+developer;A+backend+developer" 
+    alt="Typing SVG" />
+</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sokchea-boy&label=Profile%20views&color=0e75b6&style=flat" alt="sokchea-boy" />
-</p>
+
+## Work
 
 - 🔭 I’m currently working on **Full-Stack Project**
 - 🌱 I’m currently learning **Java and React.js**
@@ -47,7 +50,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="@Sokchea_Boy" target="_blank">
+  <a href="https://t.me/@Sokchea_Boy" target="_blank">
     <img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png"
       alt="sokchea boy telegram"
