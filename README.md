@@ -47,7 +47,7 @@
   </a>
 
   <!-- Telegram -->
-  <a href="https://t.me/@Sokchea_Boy" target="_blank">
+  <a href="@Sokchea_Boy" target="_blank">
     <img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/960px-Telegram_logo.svg.png"
       alt="sokchea boy telegram"
